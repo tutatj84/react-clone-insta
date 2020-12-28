@@ -6,7 +6,7 @@ import Header from './Header';
 function App(props) {
 
   return(
-    <div class="App">
+    <div className="App">
       <Header />
       <Body />
     </div>
